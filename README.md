@@ -1,7 +1,6 @@
 # Travelwish
 
-A doctor appointment booking platform where users can register 
-themselves and book an appointment only after logged in. Doctors 
-can also apply for a consultant in this platform.
-Admin can keep a track of all the list of users, check current number 
-of doctors as well as approve new doctors after checking their profile
+This project is all about Hotel booking website.. Where you can go 
+explore different types of hotels all over the world. Users need to signin to book any hotel.
+Stripe payment method is integrated. Admin can keep track of all the users 
+along with he can add new hotel with the existing ones.
